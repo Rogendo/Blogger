@@ -1,5 +1,9 @@
 # Blogger
 
+Uses HTTPoison to fetch a blog post from a given link 
+ 
+
+
 **TODO: Add description**
 
 ## Installation
